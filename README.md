@@ -1,6 +1,4 @@
-<h1>Hi, I'm Software Engineer</h1>
-<h3>A passionate frontend developer </h3>
-
+<h1>Hi, I'm Frontend developer </h3>
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Monorepo**
 
